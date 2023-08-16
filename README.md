@@ -1,2 +1,4 @@
 # stapler
-This repo is about staplers
+This repo is about staplers. Wow.
+
+Staplers, ikr!
