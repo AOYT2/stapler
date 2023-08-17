@@ -1,4 +1,4 @@
-# stapler
+# Stapler
 
 For over 3,000 years scientists have always asked the same 3 questions: "How can we go to the stars?", "Can we achieve eternal life', and, most important of them all, "What is the best angle to staple two pieces of paper together?". Today, one of these questions have been answered.
 
